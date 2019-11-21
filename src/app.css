@@ -1,0 +1,29 @@
+.review {
+    border: 2px solid black;
+    margin: 2.5%;
+}
+
+.review > * {
+    margin-left: 2.5%;
+}
+
+.review h4 {
+    margin-bottom: 0;
+    background-color: lightcoral;
+}
+
+.review h5 {
+    margin-top: 1%;
+    margin-bottom: 1.5%;
+}
+
+.review p {
+    margin: 0.5% 2.5%;
+}
+
+.review a {
+    display: block;
+    margin-top: 1%;
+    margin-bottom: 2.5%;
+    font-size: 15px;
+}
